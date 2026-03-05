@@ -5,10 +5,9 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 
 - `cd`: Para navegar entre pastas.
 - `dir`: Para listar arquivos.
-- `cd ..`
-- `mkdir nome_da-pasta`
-- `cls`
-- `explorer nome_da-pasta `
+- `cd ..`:Sai da pasta atual 
+- `mkdir nome_da-pasta` :Cria um nova pasta
+- `explorer nome_da-pasta `: Abre local da pasta
 
 ## 📸 Evidência de Execução
 [Foto terminal]
