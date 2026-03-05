@@ -11,8 +11,8 @@ Aqui estão os comandos que mais utilizei na aula de Terminal:
 - `explorer nome_da-pasta `
 
 ## 📸 Evidência de Execução
-![Foto do meu terminal](./screenshot.png)
-<img width="1111" height="618" alt="sucesso txt" src="https://github.com/user-attachments/assets/669dcfdc-c88e-41ff-bbd3-acc019d878cf" />
+![Foto terminal]
+<img width="555" height="309" alt="sucesso txt" src="https://github.com/user-attachments/assets/669dcfdc-c88e-41ff-bbd3-acc019d878cf" />
 
 
 
